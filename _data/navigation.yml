@@ -10,7 +10,8 @@ main:
     url: /teaching/    
    
   - title: "CV"
-    url: /cv/
+    url: /files/Matt_Kowal_CV.pdf
+#     url: /cv/
     
 #   - title: "Portfolio"
 #     url: /portfolio/

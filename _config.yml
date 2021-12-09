@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Kowal's Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Matthew Kowal"
 description              : &description "Deep Learning and Computer Vision"

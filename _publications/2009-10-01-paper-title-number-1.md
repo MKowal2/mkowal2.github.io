@@ -7,6 +7,6 @@ date: 2021-08-17
 venue: 'ICCV 2021'
 paperurl: 'https://arxiv.org/abs/2108.07884'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
 
 [Download paper here](https://arxiv.org/pdf/2108.07884.pdf)

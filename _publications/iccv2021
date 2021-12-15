@@ -2,7 +2,7 @@
 title: "Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs."
 collection: publications
 permalink: /publication/iccv2021
-excerpt: 'Abstract'
+excerpt: 'In this paper, we challenge the common assumption that collapsing the spatial dimensions of a 3D (spatial-channel) tensor in a convolutional neural network (CNN) into a vector via global pooling removes all spatial information. Specifically, we demonstrate that positional information is encoded based on the ordering of the channel dimensions, while semantic information is largely not.'
 date: 2021-08-17
 venue: 'ICCV 2021'
 paperurl: 'https://arxiv.org/abs/2108.07884'

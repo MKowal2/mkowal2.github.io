@@ -1,12 +1,12 @@
 ---
-title: "Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs. 2"
+title: "Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs"
 collection: publications
 permalink: /publication/2021-10-01-global-pooling
 excerpt: 'In this paper, we challenge the common assumption that collapsing the spatial dimensions of a 3D (spatial-channel) tensor in a convolutional neural network (CNN) into a vector via global pooling removes all spatial information. Specifically, we demonstrate that positional information is encoded based on the ordering of the channel dimensions, while semantic information is largely not.'
 date: 2021-10-01
 venue: 'ICCV'
 paperurl: 'https://arxiv.org/pdf/2108.07884.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: ''
 ---
 
 **Abstract:** In this paper, we challenge the common assumption that collapsing the spatial dimensions of a 3D (spatial-channel) tensor in a convolutional neural network (CNN) into a vector via global pooling removes all spatial information. Specifically, we demonstrate that positional information is encoded based on the ordering of the channel dimensions, while semantic information is largely not. Following this demonstration, we show the real world impact of these findings by applying them to two applications. First, we propose a simple yet effective data augmentation strategy and loss function which improves the translation invariance of a CNN’s output. Second, we propose a method to efficiently determine which channels in the latent representation are responsible for (i) encoding overall position information or (ii) region-specific positions. We first show that semantic segmentation has a significant reliance on the overall position channels to make predictions. We then show for the first time that it is possible to perform a ‘region-specific’ attack, and degrade a network’s performance in a particular part of the input. We believe our findings and demonstrated applications will benefit research areas concerned with understanding the characteristics of CNNs. Code is available at: https://github.com/islamamirul/PermuteNet.

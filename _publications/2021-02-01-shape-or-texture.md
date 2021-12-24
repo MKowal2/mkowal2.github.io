@@ -1,5 +1,5 @@
 ---
-title: "Category Specific Feature Binding for Semantic Segmentation and Adversarial Robustness"
+title: "Shape or Texture: Understanding Discriminative Features in CNNs"
 collection: publications
 permalink: /publication/2021-02-01-shape-or-texture
 excerpt: 'We present two approaches for quantifying the shape and texture encoded in convolutional neural networks.'

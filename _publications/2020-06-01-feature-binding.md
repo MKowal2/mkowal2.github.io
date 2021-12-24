@@ -3,7 +3,7 @@ title: "Category Specific Feature Binding for Semantic Segmentation and Adversar
 collection: publications
 permalink: /publication/2020-06-01-feature-binding
 excerpt: 'We propose a new type of data augmentation for dense labelling tasks. We train neural networks to seperate and label mixed images based on their co-occurance probabilities.'
-date: 2021-10-01
+date: 2020-06-01
 venue: 'BMVC (Oral)'
 paperurl: 'https://arxiv.org/pdf/2008.05667.pdf'
 ---

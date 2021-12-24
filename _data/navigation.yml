@@ -6,8 +6,8 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#   - title: "Teaching"
+#     url: /teaching/    
    
   - title: "CV"
     url: /files/Matt_Kowal_CV.pdf

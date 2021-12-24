@@ -1,5 +1,5 @@
 ---
-title: "Category Specific Feature Binding for Semantic Segmentation and Adversarial Robustness"
+title: "Feature Binding with Category-Dependant MixUp for Semantic Segmentation and Adversarial Robustness"
 collection: publications
 permalink: /publication/2020-06-01-feature-binding
 excerpt: 'We propose a new type of data augmentation for dense labelling tasks. We train neural networks to seperate and label mixed images based on their co-occurance probabilities.'

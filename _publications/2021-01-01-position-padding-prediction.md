@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-01-01-position-padding-prediction
 excerpt: 'We explore the existance of absolute position information in CNNs in relation to their padding type or other border heuristics.'
 date: 2021-10-01
-venue: 'BMVC (Oral)'
+venue: 'Arxiv pre-print'
 paperurl: 'https://arxiv.org/pdf/2101.12322.pdf'
 ---
 

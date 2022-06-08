@@ -5,9 +5,9 @@ permalink: /publication/2022-03-02-static-dynamic
 excerpt: 'We quantify and explore the static and dynamic information contained in deep spatiotemporal networks.'
 date: 2022-03-02
 venue: 'CVPR'
-paperurl: 'Coming Soon!'
+paperurl: 'https://arxiv.org/pdf/2206.02846.pdf'
 ---
 
 **Abstract:** Deep spatiotemporal models are used in a variety of computer vision tasks, such as action recognition and video object segmentation. Currently, there is a limited understanding of what information is captured by these models in their intermediate representations. For example, while it has been observed that action recognition algorithms are heavily influenced by visual appearance in single static frames, there is no quantitative methodology for evaluating such static bias in the latent representation compared to bias toward dynamic information (e.g., motion). We tackle this challenge by proposing a novel approach for quantifying the static and dynamic biases of any spatiotemporal model. To show the efficacy of our approach, we analyse two widely studied tasks, action recognition and video object segmentation. Our key findings are threefold: (i) Most examined spatiotemporal models are biased toward static information; although, certain two-stream architectures with cross-connections show a better balance between the static and dynamic information captured. (ii) Some datasets that are commonly assumed to be biased toward dynamics are actually biased toward static information. (iii) Individual units (channels) in an architecture can be biased toward static, dynamic or a combination of the two.
 
-Paper coming soon!
+Download the paper [here](https://arxiv.org/abs/2206.02846).

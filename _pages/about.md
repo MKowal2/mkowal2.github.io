@@ -17,3 +17,8 @@ After graduating, I worked for two years at [Morrison Hershfield](https://www.mo
 I then obtained my M.Sc at the [Ryerson Vision Lab](https://ryersonvisionlab.github.io/) in August 2020 under the co-supervision of [Dr. Neil Bruce](https://cs.ryerson.ca/~bruce/) and [Dr. Kosta Derpanis](https://cs.ryerson.ca/~kosta/). My M.Sc thesis focused on action recognition and weakly supervised semantic segmentation. I have worked as a Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/) for the past three years, where I work closely with multiple AI-based startups in Toronto. My role was to be a research consultant where I would help the teams implement and understand state-of-the-art research papers which relate to their business or product. Here are a short list of the companies I worked with: [Origami-XR](https://www.origami-xr.com/), [Future Fertility](https://futurefertility.com/), [VideoLogic](https://www.videologic.io/), [NoLeak Defence](https://www.noleak.io/), [Argentum](https://www.argentum.ai/).
 
 My hobbies include health and fitness, competitive Super Smash Bros. Melee, birds, close up magic, and progressive house music.
+
+
+## News
+
+- I presented a spolight presentation at the [Explainable AI for Computer Vision Workshop](https://xai4cv.github.io/workshop) at CVPR 2022.

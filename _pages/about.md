@@ -22,3 +22,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 ## News
 
 - I presented a spolight presentation at the [Explainable AI for Computer Vision Workshop](https://xai4cv.github.io/workshop) at CVPR 2022.
+- Paper Accpted to CVPR 2022 - A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information. [Paper](https://arxiv.org/abs/2206.02846) and [Project Page](https://yorkucvil.github.io/Static-Dynamic-Interpretability/).
+- Paper Accepted to ICCV 2021 - Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs. [Paper](https://arxiv.org/abs/2108.07884).
+- Paper Accepted to BMVC 2021 - Simpler Does It: Generating Semantic Labels with Objectness Guidance. [Paper](https://arxiv.org/abs/2110.10335).
+- Paper Accepted to ICLR 2021 - Shape or Texture: Understanding Discriminative Features in CNNs. [Paper](https://arxiv.org/abs/2101.11604).
+- Paper Accepted as an Oral to BMVC 2020 - Feature Binding with Category-Dependant MixUp for Semantic Segmentation and Adversarial Robustness. [Paper](https://arxiv.org/abs/2008.05667).

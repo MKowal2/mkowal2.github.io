@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-03-02-static-dynamic
 excerpt: 'We quantify, and design algorithms to learn, static and dynamic information in deep spatiotemporal networks.'
 date: 2022-03-02
-venue: 'CVPR'
+venue: 'Arxiv pre-print, 2022'
 paperurl: 'https://arxiv.org/pdf/2211.01783.pdf'
 ---
 

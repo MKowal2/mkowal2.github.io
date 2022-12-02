@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently doing my PhD under the supervision of [Dr. Kosta Derpanis](https://cs.ryerson.ca/~kosta/) at [York University](https://www.yorku.ca/). I am a postgraduate affiliate at the [Vector Institute](https://vectorinstitute.ai/) and the Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/). My research focuses on designing interpretable deep learning algorithms for video understanding.
+I am currently doing my PhD under the supervision of [Dr. Kosta Derpanis](https://cs.ryerson.ca/~kosta/) at [York University](https://www.yorku.ca/). I am a postgraduate affiliate at the [Vector Institute](https://vectorinstitute.ai/) and the Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/). My research focuses on understanding and designing algorithms to explain the information inside deep learning algorithms.
 
 I completed a Bachelors of Applied Science (B.A.Sc) in [Applied Mathematics and Engineering](https://www.queensu.ca/mathstat/mthe) with a specialization in Mechanical Engineering at [Queen's University](https://www.queensu.ca/) in Kingston, Ontario, Canada. My [capstone project](https://arxiv.org/abs/1908.08914) was done on eye-tracking for the purpose of preventing driver inattention in automobiles. 
 

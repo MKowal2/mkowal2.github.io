@@ -21,7 +21,10 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 
 ## News
 
-- Journal Paper accepted to the International Conference of Computer Vision (IJCV)! [Paper](https://arxiv.org/abs/2108.09929). 
+- Journal Paper accepted to the International Conference of Computer Vision (IJCV) - SegMix: Co-occurrence Driven Mixup for Semantic
+Segmentation and Adversarial Robustness. [Paper](https://arxiv.org/abs/2108.09929). 
+- New Preprint available on Arxiv - Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks.
+ [Paper](https://arxiv.org/abs/2211.01783)
 - I presented a spolight presentation at the [Explainable AI for Computer Vision Workshop](https://xai4cv.github.io/workshop) at CVPR 2022. You can [watch the recorded talk here](https://www.youtube.com/watch?v=gpnmRG4aMHw&ab_channel=mkowal2).
 - Paper Accpted to CVPR 2022 - A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information. [Paper](https://arxiv.org/abs/2206.02846) and [Project Page](https://yorkucvil.github.io/Static-Dynamic-Interpretability/).
 - Paper Accepted to ICCV 2021 - Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs. [Paper](https://arxiv.org/abs/2108.07884).

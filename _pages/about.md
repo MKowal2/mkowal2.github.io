@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently doing my PhD under the supervision of [Dr. Kosta Derpanis](https://cs.ryerson.ca/~kosta/) at [York University](https://www.yorku.ca/). I am a postgraduate affiliate at the [Vector Institute](https://vectorinstitute.ai/) and the Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/). My research focuses on understanding and designing algorithms to explain the information inside deep learning algorithms.
+I am currently doing my PhD under the supervision of [Dr. Kosta Derpanis](https://cs.ryerson.ca/~kosta/) at [York University](https://www.yorku.ca/). I am a postgraduate affiliate at the [Vector Institute](https://vectorinstitute.ai/) and the Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/). My research interests are in the domain of explainable computer vision with a focus on image and video understanding tasks.
 
 I completed a Bachelors of Applied Science (B.A.Sc) in [Applied Mathematics and Engineering](https://www.queensu.ca/mathstat/mthe) with a specialization in Mechanical Engineering at [Queen's University](https://www.queensu.ca/) in Kingston, Ontario, Canada. My [capstone project](https://arxiv.org/abs/1908.08914) was done on eye-tracking for the purpose of preventing driver inattention in automobiles. 
 
@@ -21,7 +21,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 
 ## News
 
-- Journal Paper accepted to the International Conference of Computer Vision (IJCV)! [Paper](https://arxiv.org/abs/2108.09929).
+- Journal Paper accepted to the International Conference of Computer Vision (IJCV)! [Paper](https://arxiv.org/abs/2108.09929). 
 - I presented a spolight presentation at the [Explainable AI for Computer Vision Workshop](https://xai4cv.github.io/workshop) at CVPR 2022. You can [watch the recorded talk here](https://www.youtube.com/watch?v=gpnmRG4aMHw&ab_channel=mkowal2).
 - Paper Accpted to CVPR 2022 - A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information. [Paper](https://arxiv.org/abs/2206.02846) and [Project Page](https://yorkucvil.github.io/Static-Dynamic-Interpretability/).
 - Paper Accepted to ICCV 2021 - Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs. [Paper](https://arxiv.org/abs/2108.07884).

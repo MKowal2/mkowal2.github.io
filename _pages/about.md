@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently doing my PhD at [York University](https://www.yorku.ca/) under the supervision of [Dr. Kostantinos Derpanis](https://cs.ryerson.ca/~kosta/). I am a postgraduate affiliate at the [Vector Institute](https://vectorinstitute.ai/) and the Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/). My research interests are in the domain of explainable computer vision with a focus on image and video understanding tasks.
+I am doing my PhD at [York University](https://www.yorku.ca/) under the supervision of [Dr. Kostantinos Derpanis](https://cs.ryerson.ca/~kosta/) where I am doing research in explainable computer vision with a focus on image and video understanding tasks. I am currently a research intern at [Toyota Research Institute](https://www.tri.global/) on the machine learning team, and a faculty affiliate researcher at the [Vector Institute](https://vectorinstitute.ai/). I was the Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/) from 2020-2022. 
 
 I completed a Bachelors of Applied Science (B.A.Sc) in [Applied Mathematics and Engineering](https://www.queensu.ca/mathstat/mthe) with a specialization in Mechanical Engineering at [Queen's University](https://www.queensu.ca/) in Kingston, Ontario, Canada. After graduating from my Bachelors degree, I worked at [Morrison Hershfield](https://www.morrisonhershfield.com) as a mechanical design engineer (in training). I designed buildings, labratories, and condos, with a team of other mechanical, evironmental, electrical, and control engineers. I then obtained my M.Sc at the [Ryerson Vision Lab](https://ryersonvisionlab.github.io/) in August 2020 under the co-supervision of [Dr. Neil Bruce]([https://cs.ryerson.ca/~bruce/](https://socs.uoguelph.ca/~brucen/)) and [Dr. Kosta Derpanis](https://cs.ryerson.ca/~kosta/). My M.Sc thesis focused on multi-modal action recognition. 
 
-As the Lead Scientist in Residence (SiR) at [NextAI](https://www.nextcanada.com/next-ai/), I act as a technical consultant for multiple AI-based startups in Toronto. Some of the companies I have worked with are [Origami-XR](https://www.origami-xr.com/), [Future Fertility](https://futurefertility.com/), [VideoLogic](https://www.videologic.io/), [NoLeak Defence](https://www.noleak.io/), [Argentum](https://www.argentum.ai/).
 
 My hobbies include health and fitness, competitive Super Smash Bros. Melee, birds, close up magic, and progressive house music.
 
 
 ## News
 
+- I have accepted an offer to do a research internship at [Toyota Research Institute](https://www.tri.global/) for the Summer of 2023 at the Palo Alto HQ office!
 - I gave a talk at [Vector's Endless Summer School program](https://vectorinstitute.ai/programs-courses/endless-summer-school/) on Current Trends in Computer Vision and a CVPR 2022 Recap
 - Paper accepted to the International Journal of Computer Vision (IJCV) - SegMix: Co-occurrence Driven Mixup for Semantic
 Segmentation and Adversarial Robustness. [Paper](https://arxiv.org/abs/2108.09929). 

@@ -17,6 +17,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 
 ## News
 
+- I have been awarded the [NSERC PGS-D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/bellandpostgrad-belletsuperieures_eng.asp) Scholarship with a value of $21,000 per year! (Accepted)
 - I have accepted an offer to do a research internship at [Toyota Research Institute](https://www.tri.global/) for the Summer of 2023 at the Palo Alto HQ office!
 - I gave a talk at [Vector's Endless Summer School program](https://vectorinstitute.ai/programs-courses/endless-summer-school/) on Current Trends in Computer Vision and a CVPR 2022 Recap
 - Paper accepted to the International Journal of Computer Vision (IJCV) - SegMix: Co-occurrence Driven Mixup for Semantic

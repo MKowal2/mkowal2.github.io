@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-27-conncetome
 excerpt: 'We discover and quantify concept connections in multi-layer deep models.'
 date: 2024-02-27
-venue: 'CVPR 2024'
+venue: 'CVPR'
 paperurl: 'https://mkowal2.github.io/publications/2024-02-27-conncetome'
 ---
 

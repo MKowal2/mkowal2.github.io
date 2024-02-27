@@ -16,7 +16,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 
 
 ## News 
-- New Preprint available on Arxiv as a result of my Internship at [Toyota Research Institute](https://www.tri.global/) - Understanding Video Transformers via Universal Concept Discovery. [Paper](https://arxiv.org/abs/2401.10831) and [project page](https://yorkucvil.github.io/VTCD)
+- TWO papers accepted at CVPR 2024!
+- CVPR 2024 paper accepted as a result of my Internship at [Toyota Research Institute](https://www.tri.global/) - Understanding Video Transformers via Universal Concept Discovery. [Paper](https://arxiv.org/abs/2401.10831) and [project page](https://yorkucvil.github.io/VTCD).
 - I have been awarded the [NSERC CGS-D](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) Scholarship with a total value of $105,000! (Accepted)
 - I have accepted an offer to do a research internship at [Toyota Research Institute](https://www.tri.global/) for the Summer of 2023 at the Palo Alto HQ office!
 - I gave a talk at [Vector's Endless Summer School program](https://vectorinstitute.ai/programs-courses/endless-summer-school/) on Current Trends in Computer Vision and a CVPR 2022 Recap

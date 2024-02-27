@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-01-22-video-concept
 excerpt: 'We design a method for discovering universal spatiotemporal concepts in deep video transformers.'
 date: 2024-01-22
-venue: 'Arxiv pre-print'
+venue: 'CVPR 2024'
 paperurl: 'https://arxiv.org/pdf/2401.10831.pdf'
 ---
 

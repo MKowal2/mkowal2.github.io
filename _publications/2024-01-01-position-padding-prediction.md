@@ -3,8 +3,8 @@ title: "Position, Padding and Predictions: A Deeper Look at Position Information
 collection: publications
 permalink: /publication/2021-01-01-position-padding-prediction
 excerpt: 'We explore the existance of absolute position information in CNNs in relation to their padding type or other border heuristics.'
-date: 2021-01-01
-venue: 'Arxiv pre-print'
+date: 2024-01-01
+venue: 'International Journal of Computer Vision'
 paperurl: 'https://arxiv.org/pdf/2101.12322.pdf'
 ---
 

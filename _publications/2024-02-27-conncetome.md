@@ -13,4 +13,4 @@ Quantitative and qualitative empirical results show the effectiveness of VCCs in
 Also, we leverage VCCs for the application of failure mode debugging to reveal where mistakes arise in deep networks.
 
 
-Download the paper [here](https://arxiv.org/pdf/2404.02233.pdf) (coming soon!).
+Download the paper [here](https://arxiv.org/pdf/2404.02233.pdf).

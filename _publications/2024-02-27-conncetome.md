@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-27-conncetome
 excerpt: 'We discover and quantify concept connections in multi-layer deep models.'
 date: 2024-02-27
-venue: 'CVPR'
+venue: 'CVPR (Highlight)'
 paperurl: 'https://arxiv.org/abs/2404.02233'
 ---
 

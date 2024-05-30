@@ -19,6 +19,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 - TWO papers accepted as Highlights at CVPR 2024!
 - CVPR 2024 paper accepted as a Highlight, a result of my Internship at [Toyota Research Institute](https://www.tri.global/) - Understanding Video Transformers via Universal Concept Discovery. [Paper](https://arxiv.org/abs/2401.10831) and [project page](https://yorkucvil.github.io/VTCD)! We will also be presenting this work as a poster at the [Causal and Object-Centric Representations for Robotics Workshop](https://corrworkshop.github.io/)
 - CVPR 2024 paper accepted as a Highlight - Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models. [Paper](https://arxiv.org/abs/2404.02233) and [project page](https://yorkucvil.github.io/VCC). We will also be presenting this work as a poster at the [CVPR Explainable AI for Computer Vision Workshop](https://xai4cv.github.io/workshop_cvpr24)
+- CAIC 2024 long paper accepted - Multi-modal News Understanding with Professionally Labelled Videos (ReutersViLNews)
+. [Paper](https://arxiv.org/abs/2401.12419). 
 - Paper accepted to the International Journal of Computer Vision (IJCV) - Position, Padding and Predictions: A Deeper Look at Position Information in CNNs
 . [Paper](https://arxiv.org/abs/2101.12322). 
 - I have been awarded the [NSERC CGS-D](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) Scholarship with a total value of $105,000! (Accepted)

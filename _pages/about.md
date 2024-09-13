@@ -16,6 +16,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 
 
 ## News 
+- Paper accepted to TPAMI! Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks.
+ [Paper](https://arxiv.org/abs/2211.01783)
 - TWO papers accepted as Highlights at CVPR 2024!
 - CVPR 2024 paper accepted as a Highlight, a result of my Internship at [Toyota Research Institute](https://www.tri.global/) - Understanding Video Transformers via Universal Concept Discovery. [Paper](https://arxiv.org/abs/2401.10831) and [project page](https://yorkucvil.github.io/VTCD)! We will also be presenting this work as a poster at the [Causal and Object-Centric Representations for Robotics Workshop](https://corrworkshop.github.io/)
 - CVPR 2024 paper accepted as a Highlight - Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models. [Paper](https://arxiv.org/abs/2404.02233) and [project page](https://yorkucvil.github.io/VCC). We will also be presenting this work as a poster at the [CVPR Explainable AI for Computer Vision Workshop](https://xai4cv.github.io/workshop_cvpr24)
@@ -28,8 +30,6 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 - I gave a talk at [Vector's Endless Summer School program](https://vectorinstitute.ai/programs-courses/endless-summer-school/) on Current Trends in Computer Vision and a CVPR 2022 Recap
 - Paper accepted to the International Journal of Computer Vision (IJCV) - SegMix: Co-occurrence Driven Mixup for Semantic
 Segmentation and Adversarial Robustness. [Paper](https://arxiv.org/abs/2108.09929). 
-- New Preprint available on Arxiv - Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks.
- [Paper](https://arxiv.org/abs/2211.01783)
 - I presented a spolight presentation at the [Explainable AI for Computer Vision Workshop](https://xai4cv.github.io/workshop) at CVPR 2022. You can [watch the recorded talk here](https://www.youtube.com/watch?v=gpnmRG4aMHw&ab_channel=mkowal2).
 - Paper Accpted to CVPR 2022 - A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information. [Paper](https://arxiv.org/abs/2206.02846) and [Project Page](https://yorkucvil.github.io/Static-Dynamic-Interpretability/).
 - Paper Accepted to ICCV 2021 - Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs. [Paper](https://arxiv.org/abs/2108.07884).

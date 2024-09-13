@@ -1,10 +1,10 @@
 ---
 title: "Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks"
 collection: publications
-permalink: /publication/2022-03-02-static-dynamic
+permalink: /publication/2024-09-12-learning-static-dynamic
 excerpt: 'We quantify, and design algorithms to learn, static and dynamic information in deep spatiotemporal networks.'
 date: 2022-03-02
-venue: 'Arxiv pre-print'
+venue: 'TPAMI'
 paperurl: 'https://arxiv.org/pdf/2211.01783.pdf'
 ---
 

@@ -16,6 +16,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 
 
 ## News 
+- Gave an invited talk at [David Bau's Lab](https://baulab.info/) at Northeastern University!
+- Gave an invited talk at [Thomas Serre's Lab](https://serre-lab.clps.brown.edu/person/thomas-serre/) at Brown University!
 - Paper accepted to TPAMI! Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks.
  [Paper](https://arxiv.org/abs/2211.01783)
 - TWO papers accepted as Highlights at CVPR 2024!

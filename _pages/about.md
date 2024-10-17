@@ -21,8 +21,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 ## Project 1: Title of Project
 [Website](https://example.com/project1) | [Paper](https://example.com/paper1) | [Code](https://github.com/user/project1)
 
-![Project 1 Image](./images/profile.png)
-
+<img src="./images/profile.png" alt="Project 1 Image" style="height:300px; width:auto;">
 Brief description of the project goes here. Explain the purpose, significance, and outcome of the project.
 
 ---

@@ -15,6 +15,17 @@ Before my PhD studies, I completed a Bachelors of Applied Science (B.A.Sc) in [A
 My hobbies include health and fitness, competitive Super Smash Bros. Melee, birds, close up magic, and progressive house music.
 
 
+# Projects
+
+
+## Project 1: Title of Project
+[Website](https://example.com/project1) | [Paper](https://example.com/paper1) | [Code](https://github.com/user/project1)
+
+![Project 1 Image](./images/profile.png)
+
+Brief description of the project goes here. Explain the purpose, significance, and outcome of the project.
+
+---
 ## News 
 - Gave an invited talk at [David Bau's Lab](https://baulab.info/) at Northeastern University!
 - Gave an invited talk at [Thomas Serre's Lab](https://serre-lab.clps.brown.edu/person/thomas-serre/) at Brown University!

@@ -15,6 +15,35 @@ Before my PhD studies, I completed a Bachelors of Applied Science (B.A.Sc) in [A
 My hobbies include health and fitness, competitive Super Smash Bros. Melee, birds, close up magic, and progressive house music.
 
 
+## Project Highlights
+
+<img src="./images/vcc.png" alt="Project 1 Image" style="height:300px; width:300px;">
+**(Spotlight) Visual Concept Connectome @ CVPR 2024** Unsupervised discovery of concepts and their interlayer connections. [Paper](https://arxiv.org/abs/2404.02233), [project page](https://yorkucvil.github.io/VCC), [demo](https://mkowal2.github.io/VCC_Demo/).
+
+<img src="./images/vtcd.png" alt="Project 2 Image" style="height:300px; width:300px;">
+**(Spotlight) Understanding Video Transformers via Universal Concept Discovery @ CVPR 2024** We discover universal spatiotemporal concepts in video transformers. 
+[Paper](https://arxiv.org/abs/2401.10831), [project page](https://yorkucvil.github.io/VTCD).
+
+<img src="./images/staticdynamic.png" alt="Project 3 Image" style="height:300px; width:300px;">
+**A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information @ CVPR 2022 (and spolight @ [XAI4CV Workshop](https://xai4cv.github.io/workshop))**. 
+We develop a new metric for quantifying static and dynamic informaiton in deep spatiotemporal models.
+[Paper](https://arxiv.org/abs/2206.02846) and [Project Page](https://yorkucvil.github.io/Static-Dynamic-Interpretability/).
+
+<img src="./images/pooling.png" alt="Project 4 Image" style="height:300px; width:300px;">
+**Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs @ ICCV 2021**. 
+We show how spatial position information is encoded along the channel dimensions after pooling layers.
+[Paper](https://arxiv.org/abs/2108.07884), [code](https://github.com/islamamirul/PermuteNet).
+
+<img src="./images/shape.png" alt="Project 5 Image" style="height:300px; width:300px;">
+**Shape or Texture: Understanding Discriminative Features in CNNs @ ICLR 2021**. 
+We develop a new metric for shape and texture information encoded in CNNs.
+[Paper](https://arxiv.org/abs/2101.11604), [project page](https://islamamirul.github.io/shape_neurons.html).
+
+<img src="./images/feature.png" alt="Project 6 Image" style="height:300px; width:300px;">
+**(Oral) Feature Binding with Category-Dependant MixUp for Semantic Segmentation and Adversarial Robustness @ BMVC 2020)**.
+Source separation augmentation improves semantic segmentation and robustness. [Paper](https://arxiv.org/abs/2008.05667).
+
+- 
 ---
 ## News 
 - Gave an invited talk at [David Bau's Lab](https://baulab.info/) at Northeastern University!

@@ -17,20 +17,26 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 
 ## Project Highlights
 
-<div style="display: flex; align-items: center; gap: 15px;">
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/vcc.png" alt="Project 1 Image" style="height: 300px; width: auto; border-radius: 15px;">
   <div>
-    <strong>(Spotlight)</strong> Visual Concept Connectome @ CVPR 2024<br>
-    Unsupervised discovery of concepts and their interlayer connections. 
+    Visual Concept Connectome <strong>(Spotlight @ CVPR 2024) </strong> <br>
+    Unsupervised discovery of concepts and their interlayer connections. <br>
     <a href="https://arxiv.org/abs/2404.02233">Paper</a>, 
     <a href="https://yorkucvil.github.io/VCC">project page</a>, 
     <a href="https://mkowal2.github.io/VCC_Demo/">demo</a>.
   </div>
 </div>
 
-<img src="./images/vtcd.png" alt="Project 2 Image" style="height:300px; width:auto; border-radius:15px;">
-**(Spotlight) Understanding Video Transformers via Universal Concept Discovery @ CVPR 2024** We discover universal spatiotemporal concepts in video transformers. 
-[Paper](https://arxiv.org/abs/2401.10831), [project page](https://yorkucvil.github.io/VTCD).
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="./images/vtcd.png" alt="Project 2 Image" style="height: 300px; width: auto; border-radius: 15px;">
+  <div>
+    Understanding Video Transformers via Universal Concept Discovery <strong>(Spotlight @ CVPR 2024) </strong> <br>
+    We discover universal spatiotemporal concepts in video transformers.  <br>
+    <a href="https://arxiv.org/abs/2401.10831">Paper</a>, 
+    <a href="https://yorkucvil.github.io/VTCD">project page</a>, 
+  </div>
+</div>
 
 <img src="./images/staticdynamic.png" alt="Project 3 Image" style="height:300px; width:auto; border-radius:15px;">
 **A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information @ CVPR 2022 (and spolight @ [XAI4CV Workshop](https://xai4cv.github.io/workshop))**. 

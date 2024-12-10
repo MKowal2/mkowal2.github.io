@@ -21,7 +21,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
   <img src="./images/vcc.png" alt="Project 1 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
     <strong>(Spotlight @ CVPR 2024)</strong> <br>
-    Visual Concept Connectome <br>
+    Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models <br>
     Unsupervised discovery of concepts and their interlayer connections. <br>
     <a href="https://arxiv.org/abs/2404.02233">Paper</a>, 
     <a href="https://yorkucvil.github.io/VCC">project page</a>, 

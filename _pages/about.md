@@ -20,7 +20,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/vcc.png" alt="Project 1 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
-    Visual Concept Connectome <strong>(Spotlight @ CVPR 2024)</strong> <br>
+    <strong>(Spotlight @ CVPR 2024)</strong> <br>
+    Visual Concept Connectome <br>
     Unsupervised discovery of concepts and their interlayer connections. <br>
     <a href="https://arxiv.org/abs/2404.02233">Paper</a>, 
     <a href="https://yorkucvil.github.io/VCC">project page</a>, 
@@ -31,7 +32,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/vtcd.png" alt="Project 2 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
-    Understanding Video Transformers via Universal Concept Discovery <strong>(Spotlight @ CVPR 2024)</strong> <br>
+    <strong>Spotlight @ CVPR 2024</strong>  <br>
+    Understanding Video Transformers via Universal Concept Discovery  <br>
     We discover universal spatiotemporal concepts in video transformers. <br>
     <a href="https://arxiv.org/abs/2401.10831">Paper</a>, 
     <a href="https://yorkucvil.github.io/VTCD">project page</a>.
@@ -41,7 +43,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/staticdynamic.png" alt="Project 3 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
-    A Deeper Dive Into What Deep Spatiotemporal Networks Encode <strong>(@ CVPR 2022 and Spotlight @ <a href="https://xai4cv.github.io/workshop">XAI4CV Workshop</a>)</strong> <br>
+    <strong> CVPR 2022 and Spotlight @ <a href="https://xai4cv.github.io/workshop">XAI4CV Workshop </a> </strong> <br>
+    A Deeper Dive Into What Deep Spatiotemporal Networks Encode <br>
     We develop a new metric for quantifying static and dynamic information in deep spatiotemporal models. <br>
     <a href="https://arxiv.org/abs/2206.02846">Paper</a>, 
     <a href="https://yorkucvil.github.io/Static-Dynamic-Interpretability/">project page</a>.
@@ -51,7 +54,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/pooling.png" alt="Project 4 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
-    Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs <strong>(@ ICCV 2021)</strong> <br>
+    <strong> ICCV 2021 </strong> <br>
+    Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs  <br>
     We show how spatial position information is encoded along the channel dimensions after pooling layers. <br>
     <a href="https://arxiv.org/abs/2108.07884">Paper</a>, 
     <a href="https://github.com/islamamirul/PermuteNet">code</a>.
@@ -61,7 +65,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/shape2.png" alt="Project 5 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
-    Shape or Texture: Understanding Discriminative Features in CNNs <strong>(@ ICLR 2021)</strong> <br>
+    <strong> ICLR 2021</strong> <br>
+    Shape or Texture: Understanding Discriminative Features in CNNs  <br>
     We develop a new metric for shape and texture information encoded in CNNs. <br>
     <a href="https://arxiv.org/abs/2101.11604">Paper</a>, 
     <a href="https://islamamirul.github.io/shape_neurons.html">project page</a>.
@@ -71,7 +76,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/feature.png" alt="Project 6 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
-    Feature Binding with Category-Dependent MixUp for Semantic Segmentation and Adversarial Robustness <strong>(Oral @ BMVC 2020)</strong> <br>
+    <strong>Oral @ BMVC 2020</strong> <br>
+    Feature Binding with Category-Dependent MixUp for Semantic Segmentation and Adversarial Robustness <br>
     Source separation augmentation improves semantic segmentation and robustness. <br>
     <a href="https://arxiv.org/abs/2008.05667">Paper</a>.
   </div>

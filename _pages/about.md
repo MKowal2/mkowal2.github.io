@@ -18,7 +18,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 ## Project Highlights
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="./images/vcc.png" alt="Project 1 Image" style="height: 300px; width: auto; border-radius: 15px;">
+  <img src="./images/vcc.png" alt="Project 1 Image" style="height: 250px; width: auto; border-radius: 15px;">
   <div>
     Visual Concept Connectome <strong>(Spotlight @ CVPR 2024)</strong> <br>
     Unsupervised discovery of concepts and their interlayer connections. <br>
@@ -29,7 +29,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="./images/vtcd.png" alt="Project 2 Image" style="height: 300px; width: auto; border-radius: 15px;">
+  <img src="./images/vtcd.png" alt="Project 2 Image" style="height: 250px; width: auto; border-radius: 15px;">
   <div>
     Understanding Video Transformers via Universal Concept Discovery <strong>(Spotlight @ CVPR 2024)</strong> <br>
     We discover universal spatiotemporal concepts in video transformers. <br>
@@ -39,7 +39,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="./images/staticdynamic.png" alt="Project 3 Image" style="height: 300px; width: auto; border-radius: 15px;">
+  <img src="./images/staticdynamic.png" alt="Project 3 Image" style="height: 250px; width: auto; border-radius: 15px;">
   <div>
     A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information <strong>(@ CVPR 2022 and Spotlight @ <a href="https://xai4cv.github.io/workshop">XAI4CV Workshop</a>)</strong> <br>
     We develop a new metric for quantifying static and dynamic information in deep spatiotemporal models. <br>
@@ -49,7 +49,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="./images/pooling.png" alt="Project 4 Image" style="height: 300px; width: auto; border-radius: 15px;">
+  <img src="./images/pooling.png" alt="Project 4 Image" style="height: 250px; width: auto; border-radius: 15px;">
   <div>
     Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs <strong>(@ ICCV 2021)</strong> <br>
     We show how spatial position information is encoded along the channel dimensions after pooling layers. <br>
@@ -59,7 +59,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="./images/shape2.png" alt="Project 5 Image" style="height: 300px; width: auto; border-radius: 15px;">
+  <img src="./images/shape2.png" alt="Project 5 Image" style="height: 250px; width: auto; border-radius: 15px;">
   <div>
     Shape or Texture: Understanding Discriminative Features in CNNs <strong>(@ ICLR 2021)</strong> <br>
     We develop a new metric for shape and texture information encoded in CNNs. <br>
@@ -69,7 +69,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="./images/feature.png" alt="Project 6 Image" style="height: 300px; width: auto; border-radius: 15px;">
+  <img src="./images/feature.png" alt="Project 6 Image" style="height: 250px; width: auto; border-radius: 15px;">
   <div>
     Feature Binding with Category-Dependent MixUp for Semantic Segmentation and Adversarial Robustness <strong>(Oral @ BMVC 2020)</strong> <br>
     Source separation augmentation improves semantic segmentation and robustness. <br>

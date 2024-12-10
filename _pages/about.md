@@ -17,8 +17,16 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 
 ## Project Highlights
 
-<img src="./images/vcc.png" alt="Project 1 Image" style="height:300px; width:auto; border-radius:15px;">
-**(Spotlight) Visual Concept Connectome @ CVPR 2024** Unsupervised discovery of concepts and their interlayer connections. [Paper](https://arxiv.org/abs/2404.02233), [project page](https://yorkucvil.github.io/VCC), [demo](https://mkowal2.github.io/VCC_Demo/).
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="./images/vcc.png" alt="Project 1 Image" style="height: 300px; width: auto; border-radius: 15px;">
+  <div>
+    <strong>(Spotlight)</strong> Visual Concept Connectome @ CVPR 2024<br>
+    Unsupervised discovery of concepts and their interlayer connections. 
+    <a href="https://arxiv.org/abs/2404.02233">Paper</a>, 
+    <a href="https://yorkucvil.github.io/VCC">project page</a>, 
+    <a href="https://mkowal2.github.io/VCC_Demo/">demo</a>.
+  </div>
+</div>
 
 <img src="./images/vtcd.png" alt="Project 2 Image" style="height:300px; width:auto; border-radius:15px;">
 **(Spotlight) Understanding Video Transformers via Universal Concept Discovery @ CVPR 2024** We discover universal spatiotemporal concepts in video transformers. 

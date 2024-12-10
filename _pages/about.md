@@ -59,7 +59,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="./images/shape.png" alt="Project 5 Image" style="height: 300px; width: auto; border-radius: 15px;">
+  <img src="./images/shape2.png" alt="Project 5 Image" style="height: 300px; width: auto; border-radius: 15px;">
   <div>
     Shape or Texture: Understanding Discriminative Features in CNNs <strong>(@ ICLR 2021)</strong> <br>
     We develop a new metric for shape and texture information encoded in CNNs. <br>

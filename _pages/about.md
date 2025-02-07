@@ -23,7 +23,7 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
     <strong>PrePrint</strong> <br>
     Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment
     <br>
-    <a href="[https://arxiv.org/abs/2404.02233](https://arxiv.org/abs/2502.03714)">Paper</a>, 
+    <a href="[https://arxiv.org/abs/2404.02233](https://arxiv.org/abs/2502.03714)">Paper</a>
   </div>
 </div>
 

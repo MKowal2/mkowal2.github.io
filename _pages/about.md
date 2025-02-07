@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an [NSERC CGS-D](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) scholarship funded PhD student at [York University](https://www.yorku.ca/) in the [Computational Vision and Imaging Lab](https://yorkucvil.github.io/) supervised by [Dr. Kosta Derpanis](https://csprofkgd.github.io/). My research interest is mainly in interpreting the internal representations of deep neural networks with an emphasis on video understanding. I am currently a research intern at [Ubisoft La Forge](https://www.ubisoft.com/en-us/studio/laforge) working on generative modelling for character animations. I recently completed an internship at [Toyota Research Institute](https://www.tri.global/) as a member of the machine learning team working on [interpretability for video transformers](https://arxiv.org/abs/2401.10831). I am also a faculty affiliate researcher at the [Vector Institute](https://vectorinstitute.ai/) and have previously held the position of Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/) from 2020-2022. 
+I am a Research Resident at [FAR AI](https://far.ai/) working on AI safety and mechanistic interpretability, with a specific current focus on understanding the persuasive capabilities of LLMs. I am also an [NSERC CGS-D](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) scholarship funded PhD candidate at [York University](https://www.yorku.ca/) in the [Computational Vision and Imaging Lab](https://yorkucvil.github.io/) supervised by [Dr. Kosta Derpanis](https://csprofkgd.github.io/). My PhD thesis focused on mechanistic interpretability with an emphasis on multi-modal video understanding models. I completed internships at [Ubisoft La Forge](https://www.ubisoft.com/en-us/studio/laforge) working on generative modelling for character animations and [Toyota Research Institute](https://www.tri.global/), as a member of the machine learning team, working on [interpretability for video transformers](https://arxiv.org/abs/2401.10831). I am also a faculty affiliate researcher at the [Vector Institute](https://vectorinstitute.ai/) and have previously held the position of Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/) from 2020-2022. 
 
 Before my PhD studies, I completed a Bachelors of Applied Science (B.A.Sc) in [Applied Mathematics and Engineering](https://www.queensu.ca/mathstat/mthe) with a specialization in Mechanical Engineering at [Queen's University](https://www.queensu.ca/) in Kingston, Ontario, Canada. After graduating from my Bachelors degree, I worked at [Morrison Hershfield](https://www.morrisonhershfield.com) as a mechanical design engineer in Toronto. I helped with the design of buildings, labratories, and condos, with a team of other mechanical, evironmental, electrical, and control engineers. I then obtained my M.Sc at the [Ryerson Vision Lab](https://ryersonvisionlab.github.io/) in August 2020 under the co-supervision of [Dr. Neil Bruce]([https://cs.ryerson.ca/~bruce/](https://socs.uoguelph.ca/~brucen/)) and [Dr. Konstantinos Derpanis](https://cs.ryerson.ca/~kosta/). My M.Sc thesis focused on quantifying the utility of different modalities for action recognition. 
 
@@ -16,6 +16,17 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
 
 
 ## Project Highlights
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="./images/USAE.png" alt="Project 1 Image" style="height: auto; width: 350px; border-radius: 15px;">
+  <div>
+    <strong>PrePrint</strong> <br>
+    Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment
+    <br>
+    <a href="[https://arxiv.org/abs/2404.02233](https://arxiv.org/abs/2502.03714)">Paper</a>, 
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/vcc.png" alt="Project 1 Image" style="height: auto; width: 350px; border-radius: 15px;">

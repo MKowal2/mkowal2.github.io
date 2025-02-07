@@ -21,8 +21,8 @@ My hobbies include health and fitness, competitive Super Smash Bros. Melee, bird
   <img src="./images/USAE.png" alt="Project 1 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
     <strong>PrePrint</strong> <br>
-    Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment
-    <br>
+    Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment <br>
+    We train SAEs to discover universal and unique concepts across different models. <br>
     <a href="[https://arxiv.org/abs/2404.02233](https://arxiv.org/abs/2502.03714)">Paper</a>
   </div>
 </div>

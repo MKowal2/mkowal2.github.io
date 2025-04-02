@@ -14,7 +14,7 @@ My journey in AI research includes impactful industry experiences, such as inter
 
 My academic path began with a Bachelor of Applied Science (B.A.Sc) in [Applied Mathematics and Engineering](https://www.queensu.ca/mathstat/mthe), specialized in Mechanical Engineering from [Queen's University](https://www.queensu.ca/) in Kingston, Ontario. Following graduation, I gained practical engineering experience at [Morrison Hershfield](https://www.morrisonhershfield.com), collaborating in multidisciplinary teams to design buildings, laboratories, and residential projects.
 
-I then earned my Master's degree at the [Ryerson Vision Lab](https://ryersonvisionlab.github.io/) in August 2020, co-supervised by [Dr. Neil Bruce]([https://cs.ryerson.ca/~bruce/](https://socs.uoguelph.ca/~brucen/)) and [Dr. Kosta Derpanis](https://csprofkgd.github.io/). My thesis focused on evaluating the effectiveness of various modalities in recognizing human actions.
+I then earned my Master's degree at the [Ryerson Vision Lab](https://ryersonvisionlab.github.io/) in August 2020, co-supervised by [Dr. Neil Bruce](https://socs.uoguelph.ca/~brucen/) and [Dr. Kosta Derpanis](https://csprofkgd.github.io/). My thesis focused on evaluating the effectiveness of various modalities in recognizing human actions.
 
 Outside of research, I enjoy maintaining an active lifestyle focused on health and fitness, engaging competitively in Super Smash Bros. Melee, birdwatching, practicing close-up magic, and immersing myself in progressive house music.
 

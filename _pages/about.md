@@ -23,7 +23,7 @@ Outside of research, I enjoy maintaining an active lifestyle focused on health a
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/USAE.png" alt="Project 1 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
-    <strong>PrePrint</strong> <br>
+    <strong>ICML 2025</strong> <br>
     Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment <br>
     We train SAEs to discover universal and unique concepts across different models. <br>
     <a href="https://arxiv.org/abs/2502.03714">Paper</a>
@@ -33,7 +33,7 @@ Outside of research, I enjoy maintaining an active lifestyle focused on health a
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/Arch.png" alt="Project 1 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
-    <strong>PrePrint</strong> <br>
+    <strong>ICML 2025</strong> <br>
     Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models <br>
     We design SAEs that solve the issue of stability across different training runs <br>
     <a href="https://arxiv.org/abs/2502.12892">Paper</a>

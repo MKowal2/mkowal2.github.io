@@ -21,11 +21,11 @@ Outside of research, I am a chronic hobbyist. I enjoy maintaining an active life
 ## Project Highlights
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="./images/APE.png" alt="Project 0 Image" style="height: auto; width: 350px; border-radius: 15px;">
+  <img src="./images/APE.png" alt="Project 2 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
     <strong>Preprint, 2025</strong> <br>
     It’s the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics <br>
-    We show frontier models attempt to persuade users into harmful topics with our eval, AttemptPersuadeEval (APE). <br>
+    We introduce the AttemptPersuadeEval (APE) and show that frontier models attempt to persuade users into harmful topics. <br>
     <a href="https://mkowal2.github.io/">Paper (coming soon) </a>
   </div>
 </div>

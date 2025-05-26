@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Matthew Kowal"
-description              : &description "Interpretability and Computer Vision"
+description              : &description "AI Researcher"
 url                      : https://mkowal2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://mkowal2.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matthew Kowal"
   avatar           : "Matt3.jpg"
-  bio              : "PhD Student - Interpretability for Deep Vision Models"
+  bio              : "AI Researcher - Understanding the Connectome of Deep Neural Networks"
   location         : "Toronto, Ontario, Canada"
   employer         :
   pubmed           : 

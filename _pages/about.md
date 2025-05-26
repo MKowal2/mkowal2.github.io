@@ -21,7 +21,7 @@ Outside of research, I am a chronic hobbyist. I enjoy maintaining an active life
 ## Project Highlights
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="./images/APE.pdf" alt="Project 0 Image" style="height: auto; width: 350px; border-radius: 15px;">
+  <img src="./images/APE.png" alt="Project 0 Image" style="height: auto; width: 350px; border-radius: 15px;">
   <div>
     <strong>Preprint, 2025</strong> <br>
     It’s the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics <br>

@@ -16,9 +16,19 @@ My academic path began with a Bachelor of Applied Science (B.A.Sc) in [Applied M
 
 I then earned my Master's degree at the [Ryerson Vision Lab](https://ryersonvisionlab.github.io/) in August 2020, co-supervised by [Dr. Neil Bruce](https://socs.uoguelph.ca/~brucen/) and [Dr. Kosta Derpanis](https://csprofkgd.github.io/). My thesis focused on evaluating the effectiveness of various modalities in recognizing human actions.
 
-Outside of research, I enjoy maintaining an active lifestyle focused on health and fitness, engaging competitively in Super Smash Bros. Melee, birdwatching, practicing close-up magic, and immersing myself in progressive house music.
+Outside of research, I am a chronic hobbyist. I enjoy maintaining an active lifestyle focused on health and fitness through weightlifting and calisthenics, engaging competitively in Super Smash Bros. Melee, cooking, skateboarding, rock climbing, birdwatching, close-up magic, and immersing myself in the progressive house and techno music scene.
 
 ## Project Highlights
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="./images/APE.pdf" alt="Project 1 Image" style="height: auto; width: 350px; border-radius: 15px;">
+  <div>
+    <strong>Preprint, 2025</strong> <br>
+    It’s the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics <br>
+    We show frontier models attempt to persuade users into harmful topics with our eval, AttemptPersuadeEval (APE). <br>
+    <a href="https://mkowal2.github.io/">Paper (coming soon) </a>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/USAE.png" alt="Project 1 Image" style="height: auto; width: 350px; border-radius: 15px;">

@@ -118,7 +118,8 @@ Outside of research, I am a chronic hobbyist. I enjoy maintaining an active life
 </div>
 
 ## News 
-  - Two papers accepted to ICML 2025 improving intepretability methods with SAEs! [Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment](https://arxiv.org/abs/2502.03714) and [Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models](https://arxiv.org/abs/2502.12892)!
+- Two papers accepted to ICML 2025 improving intepretability methods with SAEs! [Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment](https://arxiv.org/abs/2502.03714) and [Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models](https://arxiv.org/abs/2502.12892)!
+- I joined [FAR.AI](https://far.ai/) as a Research Resident working on understanding LLM persuasive capabilities!
 - Gave an invited talk at [David Bau's Lab](https://baulab.info/) at Northeastern University!
 - Gave an invited talk at [Thomas Serre's Lab](https://serre-lab.clps.brown.edu/person/thomas-serre/) at Brown University!
 - Paper accepted to TPAMI! Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks.

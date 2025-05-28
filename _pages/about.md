@@ -36,7 +36,8 @@ Outside of research, I am a chronic hobbyist. I enjoy maintaining an active life
     <strong>ICML 2025</strong> <br>
     Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment <br>
     We train SAEs to discover universal and unique concepts across different models. <br>
-    <a href="https://arxiv.org/abs/2502.03714">Paper</a>
+    <a href="https://arxiv.org/abs/2502.03714">Paper</a>,
+    <a href="https://github.com/YorkUCVIL/UniversalSAE">Code</a>
   </div>
 </div>
 
@@ -46,7 +47,8 @@ Outside of research, I am a chronic hobbyist. I enjoy maintaining an active life
     <strong>ICML 2025</strong> <br>
     Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models <br>
     We design SAEs that solve the issue of stability across different training runs <br>
-    <a href="https://arxiv.org/abs/2502.12892">Paper</a>
+    <a href="https://arxiv.org/abs/2502.12892">Paper</a>,
+    <a href="https://github.com/KempnerInstitute/overcomplete">Code</a>
   </div>
 </div>
 

@@ -27,6 +27,7 @@ Outside of research, I am a chronic hobbyist. I enjoy maintaining an active life
     It’s the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics <br>
     We introduce the AttemptPersuadeEval (APE) and show that frontier models attempt to persuade users into harmful topics. <br>
     <a href="https://mkowal2.github.io/">Paper (coming soon) </a>
+    <a href="https://github.com/AlignmentResearch/AttemptPersuadeEval">Code</a>
   </div>
 </div>
 

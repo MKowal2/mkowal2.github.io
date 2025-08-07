@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Resident at [FAR AI](https://far.ai/), exploring critical challenges in AI safety and mechanistic interpretability, with a particular interest in uncovering how large language models (LLMs) persuade and influence people. Concurrently, I am pursuing my PhD as an [NSERC CGS-D](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) scholarship recipient at [York University](https://www.yorku.ca/), where I am part of the [CVIL Lab](https://yorkucvil.github.io/) under the supervision of [Dr. Kosta Derpanis](https://csprofkgd.github.io/). My doctoral research emphasizes mechanistic interpretability in multi-modal video understanding systems.
+I am currently a Research Resident at [FAR AI](https://far.ai/), exploring critical challenges in AI safety and mechanistic interpretability, with a particular interest in uncovering how large language models (LLMs) persuade and influence people. I have a PhD (funded by an [NSERC CGS-D](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) scholarship) from [York University](https://www.yorku.ca/), where I was part of the [CVIL Lab](https://yorkucvil.github.io/) under the supervision of [Dr. Kosta Derpanis](https://csprofkgd.github.io/). My doctoral research focused on concept-based interpretability in multi-modal and video understanding systems.
 
 My journey in AI research includes impactful industry experiences, such as internships at [Ubisoft La Forge](https://www.ubisoft.com/en-us/studio/laforge), where I worked on generative modeling for character animations, and at [Toyota Research Institute](https://www.tri.global/), contributing to [interpretability research for video transformers](https://arxiv.org/abs/2401.10831) within the machine learning team. Additionally, I hold a position as a faculty affiliate researcher at the [Vector Institute](https://vectorinstitute.ai/) and previously served as Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/) (2020–2022).
 
@@ -121,6 +121,7 @@ Outside of research, I am a chronic hobbyist. I enjoy maintaining an active life
 </div>
 
 ## News 
+- I have officially defended my PhD on August 6th, 2025!
 - Two papers accepted to ICML 2025 improving intepretability methods with SAEs! [Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment](https://arxiv.org/abs/2502.03714) and [Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models](https://arxiv.org/abs/2502.12892)!
 - I joined [FAR.AI](https://far.ai/) as a Research Resident working on understanding LLM persuasive capabilities!
 - Gave an invited talk at [David Bau's Lab](https://baulab.info/) at Northeastern University!

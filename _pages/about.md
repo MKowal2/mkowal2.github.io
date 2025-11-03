@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Resident at [FAR AI](https://far.ai/), exploring critical challenges in AI safety and mechanistic interpretability, with a particular interest in uncovering how large language models (LLMs) persuade and influence people. I have a PhD (funded by an [NSERC CGS-D](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) scholarship) from [York University](https://www.yorku.ca/), where I was part of the [CVIL Lab](https://yorkucvil.github.io/) under the supervision of [Dr. Kosta Derpanis](https://csprofkgd.github.io/). My doctoral research focused on concept-based interpretability in multi-modal and video understanding systems.
+I am a Member of Technical Staff at [FAR AI](https://far.ai/), exploring challenges in AI safety with a focus on mechanistic interpretability and persuasion of large language models. Prviously, I completed my PhD (funded by an [NSERC CGS-D](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) scholarship) from [York University](https://www.yorku.ca/), where I was part of the [CVIL Lab](https://yorkucvil.github.io/) under the supervision of [Dr. Kosta Derpanis](https://csprofkgd.github.io/). My doctoral research focused on interpretability of multi-modal and video understanding systems.
 
 My journey in AI research includes impactful industry experiences, such as internships at [Ubisoft La Forge](https://www.ubisoft.com/en-us/studio/laforge), where I worked on generative modeling for character animations, and at [Toyota Research Institute](https://www.tri.global/), contributing to [interpretability research for video transformers](https://arxiv.org/abs/2401.10831) within the machine learning team. Additionally, I hold a position as a faculty affiliate researcher at the [Vector Institute](https://vectorinstitute.ai/) and previously served as Lead Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/) (2020–2022).
 
@@ -19,6 +19,16 @@ I then earned my Master's degree at the [Ryerson Vision Lab](https://ryersonvisi
 Outside of research, I am a chronic hobbyist. I enjoy maintaining an active lifestyle focused on health and fitness through weightlifting and calisthenics, engaging competitively in Super Smash Bros. Melee, cooking, skateboarding, rock climbing, birdwatching, close-up magic, and immersing myself in the progressive house and techno music scene.
 
 ## Project Highlights
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="./images/DINO.png" alt="Project 3 Image" style="height: auto; width: 350px; border-radius: 15px;">
+  <div>
+    <strong>Preprint, 2025</strong> <br>
+    Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry <br>
+    A deep dive into the semantics and geometry of concepts in large vision models. <br>
+    <a href="https://www.arxiv.org/abs/2506.02873">Paper</a>,
+    <a href="[https://yorkucvil.github.io/VCC](https://kempnerinstitute.github.io/dinovision/)">project page</a>, 
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="./images/APE.png" alt="Project 2 Image" style="height: auto; width: 350px; border-radius: 15px;">

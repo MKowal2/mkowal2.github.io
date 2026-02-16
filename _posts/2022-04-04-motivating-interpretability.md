@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Motivating Interpretability - A Researcher and Engineering Perspective"
-author: "Matthew Kowal"
-meta: "Springfield"
---- 
+date: 2022-04-04
+tags:
+  - interpretability
+  - deep learning
+---
 
 Deep neural networks (DNNs) are known to be almost fully opaque compared to traditional algorithms, even to top engineers and scientists who use DNNs. Many reasons have been proposed for why understanding the decision making process of these models is important, such as human curiosity, scientific discovery, bias detection, or algorithm safety measures and auditing. Furthermore, a model which is interpretable may exhibit more fairness, reliability, and trust to the general public [1](https://christophm.github.io/interpretable-ml-book/). Several methods to interpret DNNs in computer vision have been proposed to varying degrees of success. For example, many recent SOTA saliency map visualization methods have been [shown to be on par with some random baselines](https://distill.pub/2020/attribution-baselines/). Similar issues with other interpretability methods have been [criticized on social media](https://twitter.com/zacharylipton/status/1488665302057590787?s=21), pointing out that the reliance on these methods in mission critical situations will likely do more harm than good. 
 

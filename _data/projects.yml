@@ -1,0 +1,122 @@
+- title: "Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry"
+  description: "A deep dive into the semantics and geometry of concepts in large vision models."
+  image: "/images/DINO.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2025
+  links:
+    - label: "Paper"
+      url: "https://www.arxiv.org/abs/2506.02873"
+    - label: "Project"
+      url: "https://kempnerinstitute.github.io/dinovision/"
+
+- title: "It's the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics"
+  description: "We introduce the AttemptPersuadeEval (APE) and show that frontier models attempt to persuade users into harmful topics."
+  image: "/images/APE.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2025
+  links:
+    - label: "Paper"
+      url: "https://www.arxiv.org/abs/2506.02873"
+    - label: "Code"
+      url: "https://github.com/AlignmentResearch/AttemptPersuadeEval"
+
+- title: "Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment"
+  description: "We train SAEs to discover universal and unique concepts across different models."
+  image: "/images/USAE.png"
+  venue: "ICML 2025"
+  venue_class: "icml"
+  year: 2025
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2502.03714"
+    - label: "Code"
+      url: "https://github.com/YorkUCVIL/UniversalSAE"
+
+- title: "Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models"
+  description: "We design SAEs that solve the issue of stability across different training runs."
+  image: "/images/Arch.png"
+  venue: "ICML 2025"
+  venue_class: "icml"
+  year: 2025
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2502.12892"
+    - label: "Code"
+      url: "https://github.com/KempnerInstitute/overcomplete"
+
+- title: "Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models"
+  description: "Unsupervised discovery of concepts and their interlayer connections."
+  image: "/images/vcc.png"
+  venue: "CVPR 2024"
+  venue_class: "cvpr"
+  note: "Spotlight"
+  year: 2024
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2404.02233"
+    - label: "Project"
+      url: "https://yorkucvil.github.io/VCC"
+    - label: "Demo"
+      url: "https://mkowal2.github.io/VCC_Demo/"
+
+- title: "Understanding Video Transformers via Universal Concept Discovery"
+  description: "We discover universal spatiotemporal concepts in video transformers."
+  image: "/images/vtcd.png"
+  venue: "CVPR 2024"
+  venue_class: "cvpr"
+  note: "Spotlight"
+  year: 2024
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2401.10831"
+    - label: "Project"
+      url: "https://yorkucvil.github.io/VTCD"
+
+- title: "A Deeper Dive Into What Deep Spatiotemporal Networks Encode"
+  description: "We develop a new metric for quantifying static and dynamic information in deep spatiotemporal models."
+  image: "/images/staticdynamic.png"
+  venue: "CVPR 2022"
+  venue_class: "cvpr"
+  year: 2022
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2206.02846"
+    - label: "Project"
+      url: "https://yorkucvil.github.io/Static-Dynamic-Interpretability/"
+
+- title: "Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs"
+  description: "We show how spatial position information is encoded along the channel dimensions after pooling layers."
+  image: "/images/pooling.png"
+  venue: "ICCV 2021"
+  venue_class: "iccv"
+  year: 2021
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2108.07884"
+    - label: "Code"
+      url: "https://github.com/islamamirul/PermuteNet"
+
+- title: "Shape or Texture: Understanding Discriminative Features in CNNs"
+  description: "We develop a new metric for shape and texture information encoded in CNNs."
+  image: "/images/shape2.png"
+  venue: "ICLR 2021"
+  venue_class: "iclr"
+  year: 2021
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2101.11604"
+    - label: "Project"
+      url: "https://islamamirul.github.io/shape_neurons.html"
+
+- title: "Feature Binding with Category-Dependent MixUp for Semantic Segmentation and Adversarial Robustness"
+  description: "Source separation augmentation improves semantic segmentation and robustness."
+  image: "/images/feature.png"
+  venue: "BMVC 2020"
+  venue_class: "bmvc"
+  note: "Oral"
+  year: 2020
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2008.05667"

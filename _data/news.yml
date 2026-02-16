@@ -1,0 +1,32 @@
+- date: "Aug 2025"
+  text: "Officially defended my PhD!"
+
+- date: "May 2025"
+  text: "Two papers accepted to ICML 2025 improving interpretability methods with SAEs! <a href='https://arxiv.org/abs/2502.03714'>Universal SAEs</a> and <a href='https://arxiv.org/abs/2502.12892'>Archetypal SAE</a>."
+
+- date: "2024"
+  text: "Joined <a href='https://far.ai/'>FAR.AI</a> as a Research Resident working on understanding LLM persuasive capabilities."
+
+- date: "2024"
+  text: "Gave invited talks at <a href='https://baulab.info/'>David Bau's Lab</a> (Northeastern) and <a href='https://serre-lab.clps.brown.edu/person/thomas-serre/'>Thomas Serre's Lab</a> (Brown)."
+
+- date: "2024"
+  text: "Paper accepted to TPAMI &mdash; Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks. <a href='https://arxiv.org/abs/2211.01783'>Paper</a>."
+
+- date: "2024"
+  text: "TWO papers accepted as Highlights at CVPR 2024! <a href='https://arxiv.org/abs/2401.10831'>VTCD</a> and <a href='https://arxiv.org/abs/2404.02233'>VCC</a>."
+
+- date: "2023"
+  text: "Research internship at <a href='https://www.tri.global/'>Toyota Research Institute</a> in Palo Alto."
+
+- date: "2023"
+  text: "Awarded the <a href='https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp'>NSERC CGS-D</a> Scholarship ($105,000)."
+
+- date: "2022"
+  text: "Paper accepted to CVPR 2022 and Spotlight at <a href='https://xai4cv.github.io/workshop'>XAI4CV Workshop</a>."
+
+- date: "2021"
+  text: "Papers accepted to ICCV 2021 and ICLR 2021."
+
+- date: "2020"
+  text: "Paper accepted as an Oral at BMVC 2020."

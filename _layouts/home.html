@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+<section class="research" id="research">
+  <div class="research__inner">
+    <div class="section__header">
+      <h2 class="section__title">Research</h2>
+    </div>
+    <div class="research__list">
+      {% for project in site.data.projects %}
+        {% include research-card.html project=project index=forloop.index %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="news" id="news">
+  <div class="news__inner">
+    <div class="section__header">
+      <h2 class="section__title">News</h2>
+    </div>
+    <div class="news__list">
+      {% for item in site.data.news %}
+        {% include news-item.html item=item %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

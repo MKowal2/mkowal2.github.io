@@ -1,0 +1,14 @@
+<a href="{{ include.post.url | relative_url }}" class="blog-card">
+  <div class="blog-card__date">{{ include.post.date | date: "%B %-d, %Y" }}</div>
+  <h2 class="blog-card__title">{{ include.post.title }}</h2>
+  {% if include.post.excerpt %}
+    <p class="blog-card__excerpt">{{ include.post.excerpt | strip_html | truncatewords: 30 }}</p>
+  {% endif %}
+  {% if include.post.tags.size > 0 %}
+    <div class="blog-card__tags">
+      {% for tag in include.post.tags %}
+        <span class="blog-card__tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  {% endif %}
+</a>

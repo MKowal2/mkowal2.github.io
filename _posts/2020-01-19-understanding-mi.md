@@ -1,7 +1,7 @@
 ---
+layout: post
 title: 'Understanding Mutual Information'
 date: 2020-01-19
-permalink: /posts/2020/01/understanding-mi/
 tags:
   - mutual information
   - information theory

@@ -1,0 +1,176 @@
+.research {
+  padding: $space-16 0;
+
+  @media (min-width: $bp-md) {
+    padding: $space-20 0;
+  }
+
+  &__inner {
+    max-width: $width-wide;
+    margin: 0 auto;
+    padding: 0 $space-6;
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    gap: $space-8;
+  }
+}
+
+// Research card
+.research-card {
+  display: flex;
+  flex-direction: column;
+  gap: $space-5;
+  padding: $space-6;
+  border: 1px solid $color-border;
+  border-radius: $radius-xl;
+  background: $color-bg;
+  transition: box-shadow $transition-base, border-color $transition-base;
+
+  &:hover {
+    box-shadow: $shadow-md;
+    border-color: rgba($color-amber, 0.3);
+  }
+
+  @media (min-width: $bp-md) {
+    flex-direction: row;
+    gap: $space-6;
+  }
+
+  &__image-wrapper {
+    flex-shrink: 0;
+
+    @media (min-width: $bp-md) {
+      width: 280px;
+    }
+  }
+
+  &__image {
+    width: 100%;
+    height: auto;
+    border-radius: $radius-lg;
+    object-fit: cover;
+
+    @media (min-width: $bp-md) {
+      width: 280px;
+      height: 180px;
+    }
+  }
+
+  &__content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: $space-2;
+  }
+
+  &__meta {
+    display: flex;
+    align-items: center;
+    gap: $space-2;
+    flex-wrap: wrap;
+  }
+
+  &__title {
+    font-size: $text-lg;
+    font-weight: 600;
+    color: $color-text;
+    line-height: 1.4;
+  }
+
+  &__description {
+    font-size: $text-sm;
+    color: $color-text-secondary;
+    line-height: 1.6;
+  }
+
+  &__links {
+    display: flex;
+    align-items: center;
+    gap: $space-2;
+    flex-wrap: wrap;
+    margin-top: auto;
+    padding-top: $space-2;
+  }
+}
+
+// Venue badge
+.badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: $text-xs;
+  font-weight: 600;
+  padding: 0.15rem 0.6rem;
+  border-radius: $radius-full;
+  letter-spacing: 0.025em;
+
+  &--icml {
+    background-color: rgba($badge-icml, 0.1);
+    color: $badge-icml;
+  }
+  &--cvpr {
+    background-color: rgba($badge-cvpr, 0.1);
+    color: $badge-cvpr;
+  }
+  &--iccv {
+    background-color: rgba($badge-iccv, 0.1);
+    color: $badge-iccv;
+  }
+  &--iclr {
+    background-color: rgba($badge-iclr, 0.1);
+    color: $badge-iclr;
+  }
+  &--bmvc {
+    background-color: rgba($badge-bmvc, 0.1);
+    color: $badge-bmvc;
+  }
+  &--tpami {
+    background-color: rgba($badge-tpami, 0.1);
+    color: $badge-tpami;
+  }
+  &--ijcv {
+    background-color: rgba($badge-ijcv, 0.1);
+    color: $badge-ijcv;
+  }
+  &--caic {
+    background-color: rgba($badge-caic, 0.1);
+    color: $badge-caic;
+  }
+  &--preprint {
+    background-color: rgba($badge-preprint, 0.1);
+    color: $badge-preprint;
+  }
+}
+
+.badge-note {
+  font-size: $text-xs;
+  font-weight: 500;
+  color: $color-text-muted;
+}
+
+// Link pill buttons
+.link-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: $text-xs;
+  font-weight: 500;
+  padding: 0.25rem 0.65rem;
+  border: 1px solid $color-border;
+  border-radius: $radius-full;
+  color: $color-text-secondary;
+  transition: all $transition-fast;
+
+  &:hover {
+    border-color: $color-amber;
+    color: $color-amber;
+    background-color: rgba($color-amber, 0.05);
+  }
+
+  svg {
+    width: 12px;
+    height: 12px;
+  }
+}

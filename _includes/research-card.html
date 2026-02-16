@@ -1,0 +1,20 @@
+<article class="research-card fade-in-delay-{{ include.index }}">
+  <div class="research-card__image-wrapper">
+    <img src="{{ include.project.image | relative_url }}" alt="{{ include.project.title }}" class="research-card__image" loading="lazy">
+  </div>
+  <div class="research-card__content">
+    <div class="research-card__meta">
+      <span class="badge badge--{{ include.project.venue_class }}">{{ include.project.venue }}</span>
+      {% if include.project.note %}
+        <span class="badge-note">{{ include.project.note }}</span>
+      {% endif %}
+    </div>
+    <h3 class="research-card__title">{{ include.project.title }}</h3>
+    <p class="research-card__description">{{ include.project.description }}</p>
+    <div class="research-card__links">
+      {% for link in include.project.links %}
+        <a href="{{ link.url }}" class="link-pill" target="_blank" rel="noopener">{{ link.label }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</article>

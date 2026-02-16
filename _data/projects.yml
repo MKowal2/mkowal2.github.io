@@ -1,9 +1,9 @@
 - title: "Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry"
   description: "A deep dive into the semantics and geometry of concepts in large vision models."
   image: "/images/DINO.png"
-  venue: "Preprint"
-  venue_class: "preprint"
-  year: 2025
+  venue: "ICLR 2026"
+  venue_class: "iclr"
+  year: 2026
   links:
     - label: "Paper"
       url: "https://www.arxiv.org/abs/2506.02873"

@@ -1,3 +1,13 @@
+- title: "Concept Influence: Leveraging Interpretability to Improve Performance and Efficiency in Training Data Attribution"
+  description: "We leverage interpretability methods to improve the performance and efficiency of training data attribution."
+  image: "/images/concept_influence.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2602.14869"
+
 - title: "Interpreting Physics in Video World Models"
   description: "We interpret how video world models learn and represent physical concepts."
   image: "/images/interp_physics_world.png"

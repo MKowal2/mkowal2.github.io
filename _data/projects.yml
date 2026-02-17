@@ -1,3 +1,13 @@
+- title: "Interpreting Physics in Video World Models"
+  description: "We interpret how video world models learn and represent physical concepts."
+  image: "/images/interp_physics_world.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2602.07050"
+
 - title: "Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry"
   description: "A deep dive into the semantics and geometry of concepts in large vision models."
   image: "/images/DINO.png"

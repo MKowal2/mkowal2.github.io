@@ -26,9 +26,11 @@
   year: 2026
   links:
     - label: "Paper"
-      url: "https://www.arxiv.org/abs/2506.02873"
-    - label: "Project"
+      url: "https://arxiv.org/abs/2510.08638"
+    - label: "Demo"
       url: "https://kempnerinstitute.github.io/dinovision/"
+    - label: "Code"
+      url: "https://github.com/KempnerInstitute/dinovision"
 
 - title: "It's the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics"
   description: "We introduce the AttemptPersuadeEval (APE) and show that frontier models attempt to persuade users into harmful topics."

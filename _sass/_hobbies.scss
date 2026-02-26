@@ -1,0 +1,416 @@
+// ============================================================
+// HOBBIES — Hub page + individual hobby pages
+// ============================================================
+
+// ----- Hub: header -----
+
+.hobbies-hero {
+  background-color: $color-cream;
+  padding: $space-16 0 $space-12;
+
+  @media (min-width: $bp-md) {
+    padding: $space-20 0 $space-16;
+  }
+
+  &__inner {
+    max-width: $width-wide;
+    margin: 0 auto;
+    padding: 0 $space-6;
+    text-align: center;
+  }
+
+  &__eyebrow {
+    font-size: $text-sm;
+    font-weight: 600;
+    color: $color-amber;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: $space-3;
+  }
+
+  &__title {
+    font-size: $text-4xl;
+    font-weight: 800;
+    color: $color-text;
+    margin-bottom: $space-4;
+
+    @media (min-width: $bp-md) {
+      font-size: $text-5xl;
+    }
+  }
+
+  &__subtitle {
+    font-size: $text-lg;
+    color: $color-text-secondary;
+    max-width: 40rem;
+    margin: 0 auto;
+    line-height: 1.7;
+  }
+}
+
+// ----- Hub: card grid -----
+
+.hobbies-grid {
+  padding: $space-16 0 $space-20;
+
+  &__inner {
+    max-width: $width-wide;
+    margin: 0 auto;
+    padding: 0 $space-6;
+  }
+
+  &__list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: $space-6;
+
+    @media (min-width: $bp-sm) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (min-width: $bp-lg) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+}
+
+.hobby-card {
+  display: block;
+  text-decoration: none;
+  border: 1px solid $color-border;
+  border-radius: $radius-xl;
+  overflow: hidden;
+  background: $color-bg;
+  transition: box-shadow $transition-base, border-color $transition-base, transform $transition-base;
+
+  &:hover {
+    box-shadow: $shadow-lg;
+    border-color: rgba($color-amber, 0.35);
+    transform: translateY(-3px);
+  }
+
+  &__cover {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background-color: $color-cream;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__cover-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0;
+    transition: transform $transition-slow;
+  }
+
+  &:hover &__cover-img {
+    transform: scale(1.04);
+  }
+
+  &__cover-emoji {
+    font-size: 4rem;
+    opacity: 0.5;
+  }
+
+  &__body {
+    padding: $space-5 $space-6 $space-6;
+  }
+
+  &__title {
+    display: flex;
+    align-items: center;
+    gap: $space-2;
+    font-size: $text-xl;
+    font-weight: 700;
+    color: $color-text;
+    margin-bottom: $space-2;
+  }
+
+  &__icon {
+    font-size: 1.1rem;
+  }
+
+  &__description {
+    font-size: $text-sm;
+    color: $color-text-secondary;
+    line-height: 1.6;
+    margin-bottom: $space-4;
+  }
+
+  &__cta {
+    font-size: $text-sm;
+    font-weight: 600;
+    color: $color-amber;
+  }
+}
+
+// ----- Individual hobby: back nav -----
+
+.hobby-back {
+  background-color: $color-bg;
+  border-bottom: 1px solid $color-border;
+  padding: $space-3 0;
+
+  &__inner {
+    max-width: $width-wide;
+    margin: 0 auto;
+    padding: 0 $space-6;
+  }
+
+  &__link {
+    display: inline-flex;
+    align-items: center;
+    gap: $space-2;
+    font-size: $text-sm;
+    font-weight: 500;
+    color: $color-text-secondary;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-amber;
+    }
+
+    svg {
+      width: 16px;
+      height: 16px;
+    }
+  }
+}
+
+// ----- Individual hobby: header -----
+
+.hobby-header {
+  background-color: $color-cream;
+  padding: $space-12 0;
+
+  @media (min-width: $bp-md) {
+    padding: $space-16 0;
+  }
+
+  &__inner {
+    max-width: $width-wide;
+    margin: 0 auto;
+    padding: 0 $space-6;
+  }
+
+  &__eyebrow {
+    font-size: 3rem;
+    line-height: 1;
+    margin-bottom: $space-3;
+  }
+
+  &__title {
+    font-size: $text-4xl;
+    font-weight: 800;
+    color: $color-text;
+    margin-bottom: $space-4;
+
+    @media (min-width: $bp-md) {
+      font-size: $text-5xl;
+    }
+  }
+
+  &__description {
+    font-size: $text-lg;
+    color: $color-text-secondary;
+    line-height: 1.7;
+    max-width: 40rem;
+  }
+}
+
+// ----- Individual hobby: content area -----
+
+.hobby-content {
+  max-width: $width-wide;
+  margin: 0 auto;
+  padding: $space-12 $space-6 $space-20;
+}
+
+.hobby-section {
+  margin-bottom: $space-12;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &__title {
+    font-size: $text-xl;
+    font-weight: 700;
+    color: $color-text;
+    margin-bottom: $space-6;
+    padding-bottom: $space-3;
+    border-bottom: 2px solid $color-cream;
+  }
+}
+
+// ----- Videos -----
+
+.video-grid {
+  display: flex;
+  flex-direction: column;
+  gap: $space-8;
+}
+
+.video-embed {
+  &__container {
+    position: relative;
+    padding-bottom: 56.25%; // 16:9
+    height: 0;
+    overflow: hidden;
+    border-radius: $radius-xl;
+    box-shadow: $shadow-md;
+    background: #000;
+
+    iframe,
+    video {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: $radius-xl;
+    }
+  }
+
+  &__caption {
+    margin-top: $space-2;
+    font-size: $text-sm;
+    color: $color-text-muted;
+    text-align: center;
+  }
+}
+
+// ----- Photo gallery -----
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: $space-3;
+
+  @media (min-width: $bp-md) {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: $space-4;
+  }
+}
+
+.photo-item {
+  cursor: zoom-in;
+  overflow: hidden;
+  border-radius: $radius-lg;
+  aspect-ratio: 4 / 3;
+  box-shadow: $shadow-sm;
+  transition: box-shadow $transition-base;
+
+  &:hover {
+    box-shadow: $shadow-md;
+
+    img {
+      transform: scale(1.05);
+    }
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: $radius-lg;
+    transition: transform $transition-slow;
+    display: block;
+  }
+}
+
+// ----- External links -----
+
+.hobby-links {
+  display: flex;
+  flex-direction: column;
+  gap: $space-3;
+
+  &__item {
+    display: inline-flex;
+    align-items: center;
+    gap: $space-2;
+    font-size: $text-base;
+    font-weight: 500;
+    color: $color-amber;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-amber-dark;
+    }
+
+    svg {
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+    }
+  }
+}
+
+// ----- Lightbox -----
+
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.92);
+  z-index: 9999;
+  align-items: center;
+  justify-content: center;
+  padding: $space-8;
+  cursor: zoom-out;
+
+  &.is-open {
+    display: flex;
+  }
+
+  &__img {
+    max-width: 90vw;
+    max-height: 88vh;
+    object-fit: contain;
+    border-radius: $radius-lg;
+    box-shadow: $shadow-lg;
+    cursor: default;
+  }
+
+  &__close {
+    position: absolute;
+    top: $space-5;
+    right: $space-8;
+    font-size: 2.25rem;
+    color: rgba(255, 255, 255, 0.75);
+    cursor: pointer;
+    line-height: 1;
+    transition: color $transition-fast;
+
+    &:hover {
+      color: white;
+    }
+  }
+}
+
+// ----- Clickable profile photo hint -----
+
+.hero__photo-link {
+  display: block;
+  border-radius: $radius-xl;
+  position: relative;
+
+  &::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: $radius-xl;
+    border: 2px solid transparent;
+    transition: border-color $transition-slow;
+  }
+
+  &:hover::after {
+    border-color: rgba($color-amber, 0.5);
+  }
+}

@@ -35,6 +35,9 @@ kramdown:
 collections:
   publications:
     output: false
+  hobbies:
+    output: true
+    permalink: /hobbies/:name/
 
 # Defaults
 defaults:

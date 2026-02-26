@@ -1,0 +1,137 @@
+---
+layout: default
+---
+
+<div class="hobby-back">
+  <div class="hobby-back__inner">
+    <a href="{{ '/hobbies/' | relative_url }}" class="hobby-back__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 19-7-7 7-7"/><path d="M19 12H5"/></svg>
+      Hobbies
+    </a>
+  </div>
+</div>
+
+<header class="hobby-header fade-in">
+  <div class="hobby-header__inner">
+    <div class="hobby-header__eyebrow">{{ page.icon }}</div>
+    <h1 class="hobby-header__title">{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="hobby-header__description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+</header>
+
+<div class="hobby-content">
+
+  {% comment %} Auto-discover local images and videos for this hobby {% endcomment %}
+  {% assign hobby_slug = page.name | remove: '.md' %}
+  {% assign hobby_prefix = '/images/hobbies/' | append: hobby_slug | append: '/' %}
+  {% assign local_images = '' | split: '' %}
+  {% assign local_videos = '' | split: '' %}
+
+  {% for f in site.static_files %}
+    {% if f.path contains hobby_prefix %}
+      {% assign ext = f.extname | downcase %}
+      {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.gif' or ext == '.webp' %}
+        {% assign local_images = local_images | push: f %}
+      {% elsif ext == '.mp4' or ext == '.mov' or ext == '.webm' %}
+        {% assign local_videos = local_videos | push: f %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% comment %} Videos section (YouTube embeds + local video files) {% endcomment %}
+  {% if page.videos.size > 0 or local_videos.size > 0 %}
+  <div class="hobby-section fade-in">
+    <h2 class="hobby-section__title">Videos</h2>
+    <div class="video-grid">
+
+      {% for video in page.videos %}
+      <div class="video-embed">
+        <div class="video-embed__container">
+          <iframe src="{{ video.embed }}" title="{{ video.caption | default: 'Video' }}" allowfullscreen loading="lazy"></iframe>
+        </div>
+        {% if video.caption %}<p class="video-embed__caption">{{ video.caption }}</p>{% endif %}
+      </div>
+      {% endfor %}
+
+      {% for vid in local_videos %}
+      <div class="video-embed">
+        <div class="video-embed__container">
+          {% assign vid_ext = vid.extname | remove: '.' | downcase %}
+          {% if vid_ext == 'mov' %}{% assign mime = 'video/quicktime' %}
+          {% elsif vid_ext == 'webm' %}{% assign mime = 'video/webm' %}
+          {% else %}{% assign mime = 'video/mp4' %}{% endif %}
+          <video controls preload="metadata">
+            <source src="{{ vid.path | relative_url }}" type="{{ mime }}">
+            Your browser does not support this video format.
+          </video>
+        </div>
+        <p class="video-embed__caption">{{ vid.basename }}</p>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+  {% endif %}
+
+  {% comment %} Photo gallery (auto-discovered) {% endcomment %}
+  {% if local_images.size > 0 %}
+  <div class="hobby-section fade-in">
+    <h2 class="hobby-section__title">Photos</h2>
+    <div class="photo-grid">
+      {% for img in local_images %}
+      <div class="photo-item" onclick="openLightbox('{{ img.path | relative_url }}')">
+        <img src="{{ img.path | relative_url }}" alt="{{ img.basename }}" loading="lazy">
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% comment %} External links {% endcomment %}
+  {% if page.links.size > 0 %}
+  <div class="hobby-section fade-in">
+    <h2 class="hobby-section__title">Links</h2>
+    <div class="hobby-links">
+      {% for link in page.links %}
+      <a href="{{ link.url }}" class="hobby-links__item" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15,3 21,3 21,9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        {{ link.label }}
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% comment %} Optional markdown content below frontmatter {% endcomment %}
+  {% if content != '' %}
+  <div class="hobby-section prose fade-in">
+    {{ content }}
+  </div>
+  {% endif %}
+
+</div>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox" onclick="closeLightbox(event)">
+  <span class="lightbox__close" onclick="closeLightbox(event)">&times;</span>
+  <img class="lightbox__img" id="lightbox-img" src="" alt="Photo">
+</div>
+
+<script>
+function openLightbox(src) {
+  document.getElementById('lightbox-img').src = src;
+  document.getElementById('lightbox').classList.add('is-open');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox(e) {
+  if (!e || e.target !== document.getElementById('lightbox-img')) {
+    document.getElementById('lightbox').classList.remove('is-open');
+    document.body.style.overflow = '';
+  }
+}
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeLightbox();
+});
+</script>

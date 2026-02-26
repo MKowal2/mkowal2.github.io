@@ -1,0 +1,58 @@
+---
+layout: default
+permalink: /hobbies/
+title: "Hobbies"
+---
+
+<header class="hobbies-hero fade-in">
+  <div class="hobbies-hero__inner">
+    <p class="hobbies-hero__eyebrow">&#x1F95A; Easter egg unlocked</p>
+    <h1 class="hobbies-hero__title">Beyond the Lab</h1>
+    <p class="hobbies-hero__subtitle">
+      Turns out you can't do research 24/7 (trust me, I've tried). Here's what fills the rest of the time — I'm a chronic hobbyist and proud of it.
+    </p>
+  </div>
+</header>
+
+<section class="hobbies-grid">
+  <div class="hobbies-grid__inner">
+    <div class="hobbies-grid__list">
+      {% assign sorted_hobbies = site.hobbies | sort: 'order' %}
+      {% for hobby in sorted_hobbies %}
+        {% assign hobby_slug = hobby.name | remove: '.md' %}
+        {% assign cover_img = nil %}
+        {% assign img_prefix = '/images/hobbies/' | append: hobby_slug | append: '/' %}
+        {% for f in site.static_files %}
+          {% if cover_img == nil %}
+            {% if f.path contains img_prefix %}
+              {% assign ext = f.extname | downcase %}
+              {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.gif' or ext == '.webp' %}
+                {% assign cover_img = f %}
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        <a href="{{ hobby.url | relative_url }}" class="hobby-card fade-in-delay-{{ forloop.index }}">
+          <div class="hobby-card__cover">
+            {% if cover_img %}
+              <img class="hobby-card__cover-img" src="{{ cover_img.path | relative_url }}" alt="{{ hobby.title }}">
+            {% else %}
+              <span class="hobby-card__cover-emoji">{{ hobby.icon }}</span>
+            {% endif %}
+          </div>
+          <div class="hobby-card__body">
+            <div class="hobby-card__title">
+              <span class="hobby-card__icon">{{ hobby.icon }}</span>
+              {{ hobby.title }}
+            </div>
+            {% if hobby.description %}
+              <p class="hobby-card__description">{{ hobby.description }}</p>
+            {% endif %}
+            <span class="hobby-card__cta">Explore &#x2192;</span>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

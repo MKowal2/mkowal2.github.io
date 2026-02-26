@@ -59,11 +59,15 @@ layout: default
       <div class="video-embed">
         <div class="video-embed__container">
           {% assign vid_ext = vid.extname | remove: '.' | downcase %}
-          {% if vid_ext == 'mov' %}{% assign mime = 'video/quicktime' %}
-          {% elsif vid_ext == 'webm' %}{% assign mime = 'video/webm' %}
-          {% else %}{% assign mime = 'video/mp4' %}{% endif %}
           <video controls preload="metadata">
-            <source src="{{ vid.path | relative_url }}" type="{{ mime }}">
+            {% if vid_ext == 'mov' %}
+            <source src="{{ vid.path | relative_url }}" type="video/mp4">
+            <source src="{{ vid.path | relative_url }}" type="video/quicktime">
+            {% elsif vid_ext == 'webm' %}
+            <source src="{{ vid.path | relative_url }}" type="video/webm">
+            {% else %}
+            <source src="{{ vid.path | relative_url }}" type="video/mp4">
+            {% endif %}
             Your browser does not support this video format.
           </video>
         </div>

@@ -1,0 +1,14 @@
+# arXiv IDs (or exact titles for non-arXiv items) the user chose NOT to put on the site.
+# new_papers.py marks these DECLINED so they aren't re-proposed. Delete a line to reconsider it.
+# --- declined 2026-11-17 ---
+2610.04183  # Language Model Activations Inhabit Privileged Error-Correcting Basins
+2609.01551  # What, Where, and How: Probing Spatiotemporal Representations in Video Foundation Models
+2602.06911  # TamperBench (KDD 2026)
+2512.22201  # Emergent Persuasion: Will LLMs Persuade Without Being Prompted?
+# --- older papers intentionally left off the site (pre-2026-11) ---
+2401.12419  # ReutersViLNews
+2211.01783  # Static vs Dynamic TPAMI (CVPR version is on site)
+2110.10335  # Simpler Does It
+2108.09929  # SegMix (IJCV)
+2101.12322  # Position, Padding and Predictions (IJCV)
+1908.08914  # Region Tracking in an Image Sequence

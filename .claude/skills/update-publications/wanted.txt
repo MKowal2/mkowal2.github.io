@@ -1,0 +1,3 @@
+# Papers the user already wants on the site once they appear on arXiv (title or arXiv ID).
+# new_papers.py marks matches WANTED. Add them without asking, then remove the line here.
+Cross-model circuit discovery  # Thasarathan, Kowal, Fel, Derpanis; ICML 2026 MechInterp workshop (requested 2026-11-17)

@@ -13,7 +13,7 @@ never add everything), then add each one to `_data/projects.yml` with a teaser i
   The `_publications/` folder is legacy and unused, so don't touch it.
 - Images: `/images/<short_snake_name>.(png|jpg)`.
 - Cards show the image at **280×180 with `object-fit: cover`**, so teasers should be 14:9.
-- Badge classes (`_sass/_variables.scss`): `icml cvpr iccv iclr bmvc tpami ijcv caic preprint`.
+- Badge classes (`_sass/_variables.scss`): `icml cvpr iccv iclr bmvc tpami ijcv caic colm preprint`.
   For a venue without a class (e.g. KDD, NeurIPS), add a `$badge-x` color + `&--x` rule in `_sass/_research.scss`.
 - Helper scripts: `.claude/skills/update-publications/scripts/`. In the same dir: `declined.txt`
   (papers the user said no to) and `wanted.txt` (papers the user wants once they reach arXiv).
@@ -34,6 +34,8 @@ never add everything), then add each one to `_data/projects.yml` with a teaser i
   WebFetch summaries can be lossy, so trust arXiv for IDs and titles.
 - **Venue upgrades:** if an `ON SITE` paper with `venue: "Preprint"` now has a venue on Scholar or a
   `journal_ref`, update its `venue`/`venue_class` too (e.g. Interpreting Physics → ICML 2026).
+  The user may know about acceptances before Scholar does (e.g. the COLM 2026 papers), so never
+  downgrade a venue back to Preprint just because Scholar still lists the arXiv version.
 
 ### 2. Ask the user which papers to add (required)
 Use AskUserQuestion with `multiSelect: true`, grouping NEW papers by theme (≤4 options per question,

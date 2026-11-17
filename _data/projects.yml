@@ -1,6 +1,6 @@
 - title: "Shaping & Monitoring Models through their Internal Representations"
   description: "We introduce Mechanistic Shaping, a framework for training models against their internal representations, and study whether shaped concepts remain monitorable."
-  image: "/images/shaping_monitoring.jpg"
+  image: "/images/reliance_shaping.png"
   venue: "Preprint"
   venue_class: "preprint"
   year: 2026
@@ -83,8 +83,8 @@
 - title: "Manifold Steering Reveals the Shared Geometry of Neural Network Representation and Behavior"
   description: "Steering along activation manifolds, rather than straight lines, produces natural behavioral trajectories across language and video models."
   image: "/images/manifold_steering.png"
-  venue: "Preprint"
-  venue_class: "preprint"
+  venue: "COLM 2026"
+  venue_class: "colm"
   year: 2026
   links:
     - label: "Paper"
@@ -95,8 +95,8 @@
 - title: "Do Sparse Autoencoders Capture Concept Manifolds?"
   description: "A theoretical and empirical study of how SAEs capture, and fragment, continuous concept manifolds."
   image: "/images/sae_manifolds.png"
-  venue: "Preprint"
-  venue_class: "preprint"
+  venue: "COLM 2026"
+  venue_class: "colm"
   year: 2026
   links:
     - label: "Paper"

@@ -1,3 +1,109 @@
+- title: "Shaping & Monitoring Models through their Internal Representations"
+  description: "We introduce Mechanistic Shaping, a framework for training models against their internal representations, and study whether shaped concepts remain monitorable."
+  image: "/images/shaping_monitoring.jpg"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2611.07071"
+    - label: "Code"
+      url: "https://github.com/goodfire-ai/reliance"
+
+- title: "A Phenomenology of Neural Geometry in Vision-Language-Action Models"
+  description: "We build a taxonomy of the curved, multi-dimensional geometries that task-relevant concepts take inside robot policies."
+  image: "/images/vla_geometry.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2610.20840"
+    - label: "Code"
+      url: "https://github.com/goodfire-ai/vla-geometry"
+
+- title: "Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models"
+  description: "Block-sparse featurizers recover multi-dimensional robotics concepts that enable fine-grained steering and data attribution in VLAs."
+  image: "/images/robot_featurizers.jpg"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2610.20767"
+    - label: "Code"
+      url: "https://github.com/goodfire-ai/robotics_multi_dimensional"
+
+- title: "Causal Analysis of Robot Foundation Models Enables Efficiency Gains"
+  description: "Activation patching reveals a narrow action-conditioning interface in VLAs, which we exploit to cut inference FLOPs by up to 33%."
+  image: "/images/robot_causal.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2610.20750"
+    - label: "Code"
+      url: "https://github.com/goodfire-ai/robotics_causal_analysis"
+
+- title: "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations"
+  description: "Simple difference-of-means probes detect and help discover reward hacking in frontier open-source LLMs at virtually no cost."
+  image: "/images/reward_hacking.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2609.19101"
+    - label: "Data"
+      url: "https://huggingface.co/datasets/Goodfire/reward-hack-data"
+
+- title: "Structuring Sparsity: Block-Sparse Featurizers Capture Visual Concept Manifolds"
+  description: "Block-sparse featurizers recover low-dimensional concept manifolds in vision models and enable manifold steering of image generation."
+  image: "/images/block_sparse.jpg"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2606.25234"
+    - label: "Code"
+      url: "https://github.com/goodfire-ai/block-sparse-featurizer"
+
+- title: "Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal"
+  description: "We use interpretability to audit preference data at the level of concepts and shape what models learn during post-training."
+  image: "/images/anatomy_post_training.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2606.12360"
+
+- title: "Manifold Steering Reveals the Shared Geometry of Neural Network Representation and Behavior"
+  description: "Steering along activation manifolds, rather than straight lines, produces natural behavioral trajectories across language and video models."
+  image: "/images/manifold_steering.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2605.05115"
+    - label: "Code"
+      url: "https://github.com/goodfire-ai/causalab/tree/manifold_steering"
+
+- title: "Do Sparse Autoencoders Capture Concept Manifolds?"
+  description: "A theoretical and empirical study of how SAEs capture, and fragment, continuous concept manifolds."
+  image: "/images/sae_manifolds.png"
+  venue: "Preprint"
+  venue_class: "preprint"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2604.28119"
+    - label: "Code"
+      url: "https://github.com/goodfire-ai/sae-manifold"
+
 - title: "Concept Influence: Leveraging Interpretability to Improve Performance and Efficiency in Training Data Attribution"
   description: "We leverage interpretability methods to improve the performance and efficiency of training data attribution."
   image: "/images/concept_influence.png"
@@ -11,12 +117,22 @@
 - title: "Interpreting Physics in Video World Models"
   description: "We interpret how video world models learn and represent physical concepts."
   image: "/images/interp_physics_world.png"
+  venue: "ICML 2026"
+  venue_class: "icml"
+  year: 2026
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2602.07050"
+
+- title: "Large Language Models Can Effectively Convince People to Believe Conspiracies"
+  description: "Across four experiments (N = 3,996), we find LLMs can increase conspiracy beliefs as easily as they can decrease them, but guardrails and corrections help."
+  image: "/images/conspiracy_persuasion.png"
   venue: "Preprint"
   venue_class: "preprint"
   year: 2026
   links:
     - label: "Paper"
-      url: "https://arxiv.org/abs/2602.07050"
+      url: "https://arxiv.org/abs/2601.05050"
 
 - title: "Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry"
   description: "A deep dive into the semantics and geometry of concepts in large vision models."
